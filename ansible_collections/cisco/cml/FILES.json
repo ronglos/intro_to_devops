@@ -1,0 +1,180 @@
+{
+ "files": [
+  {
+   "name": ".",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "yapf.ini",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "a004f4eab681f5cd5376e1ca3abf64f30e604667210f48d605e9055054832c6a",
+   "format": 1
+  },
+  {
+   "name": "requirements.txt",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "2f16bf9666977788c46a75b062eb2dbe8d569f72addb9872026d163c63dafc52",
+   "format": 1
+  },
+  {
+   "name": "plugins",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "plugins/doc_fragments",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "plugins/doc_fragments/cml.py",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "0bc566953e8d3f40b1bd47c0349de5247fa377267ba2bd3f67a343943fa10090",
+   "format": 1
+  },
+  {
+   "name": "plugins/README.md",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "ce019c2fa0b74e9457b36287058bb0f80bde03324d1499da1a80cd4a9b7ae4e1",
+   "format": 1
+  },
+  {
+   "name": "plugins/inventory",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "plugins/inventory/cml_inventory.py",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "a9190b013478c85d8d5505b7e1237366ff47ec51f8ca16a3d94b90f637c46712",
+   "format": 1
+  },
+  {
+   "name": "plugins/module_utils",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "plugins/module_utils/cml_utils.py",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "f472b96c76a87475c08296ff88c910c2284139c7c392e2a815f048fd01f111fe",
+   "format": 1
+  },
+  {
+   "name": "plugins/modules",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "plugins/modules/cml_users.py",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "84d3f07a511b1145c9048acee6ed5a312dc045651085ea6c3605945ea8f1a2be",
+   "format": 1
+  },
+  {
+   "name": "plugins/modules/cml_lab.py",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "7c0b53ef98d260a3536fa19ac4fc84de12f9c88106232207ace0c7060e1b02f1",
+   "format": 1
+  },
+  {
+   "name": "plugins/modules/cml_node.py",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "32fbbda0f088959dc436651294c168ac224fd34158f5e549a8f6e5a9a408716b",
+   "format": 1
+  },
+  {
+   "name": "plugins/modules/cml_lab_facts.py",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "6bd2558422abdb9c92a969201ea9f326349a1fc2b14475776f7c9773a14c6676",
+   "format": 1
+  },
+  {
+   "name": "Makefile",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "68ab3033162ab1b17c802c96e63043d467fa0e48b9bf1140d4007ce95ee87818",
+   "format": 1
+  },
+  {
+   "name": "tests",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "meta",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "meta/runtime.yml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "af6798a1968136ece54027f764a3ab227260b43dcdd6475d6360bac91f704462",
+   "format": 1
+  },
+  {
+   "name": "playbooks",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "playbooks/clean.yml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "da7910379dd09fe0464eaef112bd6d0eac3eedeaf65e31c4205aea58ad92ab5b",
+   "format": 1
+  },
+  {
+   "name": "playbooks/inventory.yml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "848142b8bcfb2a52e16c63ccedeb8721697043355a155678f015289f28fa0107",
+   "format": 1
+  },
+  {
+   "name": "playbooks/build.yml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "f81c13a46a1f5350fcaed11a24e6062141efe73b3998641a78c33a42fa59a04d",
+   "format": 1
+  },
+  {
+   "name": "README.md",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "743b1a0a8e9e0267682bf2f34d52a8d969d944e60aa0a0fe8f48205b3ca6f381",
+   "format": 1
+  }
+ ],
+ "format": 1
+}

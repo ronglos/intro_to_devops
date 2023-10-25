@@ -1,0 +1,5 @@
+export CML_USERNAME=guest
+export CML_PASSWORD='C1sco12345'
+export CML_LAB=GLOS
+export CML_HOST=198.18.134.1
+export ANSIBLE_PYTHON_INTERPRETER=${VIRTUAL_ENV}/bin/python

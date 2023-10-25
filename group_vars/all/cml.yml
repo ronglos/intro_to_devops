@@ -1,0 +1,4 @@
+plugin: cisco.cml.cml_inventory
+cml_lab_file: "test.yaml"
+cml_verify_cert: false
+ANSIBLE_PYTHON_INTERPRETER: "${VIRTUAL_ENV}/bin/python"
