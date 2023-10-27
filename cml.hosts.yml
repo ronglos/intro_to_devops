@@ -3,7 +3,7 @@ CML_Lab:
   children:
    hq_routers:
       hosts:
-        198.18.1.5[0:2]:
+        198.18.1.x[0:2]:
   vars:
     ansible_network_os: ios
     ansible_user: admin
