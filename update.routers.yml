@@ -6,6 +6,6 @@
     - name: configure dns server
       cisco.ios.ios_config:
         lines:
-          - ip name-server 208.67.222.222 8.8.8.8
+          
          
         
