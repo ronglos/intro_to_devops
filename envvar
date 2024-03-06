@@ -1,5 +1,5 @@
+export CML_HOST=
 export CML_USERNAME=
 export CML_PASSWORD=
 export CML_LAB=YourName
-export CML_HOST=
 export ANSIBLE_PYTHON_INTERPRETER=${VIRTUAL_ENV}/bin/python
